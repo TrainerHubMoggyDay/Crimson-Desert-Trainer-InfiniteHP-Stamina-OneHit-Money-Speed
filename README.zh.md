@@ -3,7 +3,7 @@
 
 **Languages:** [English](README.md) · [Українська](README.uk.md) · [简体中文](README.zh.md) · [Türkçe](README.tr.md) · [Español](README.es.md) · [Slovenščina](README.sl.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Indonesia](README.id.md) · [Deutsch](README.de.md) · [Français](README.fr.md)
 
-Trainer for **Crimson Desert** — **+12** features: health, stamina, spirit, damage, money, game speed and time.
+**Crimson Desert** 训练器 — **+12** 功能：生命、耐力、Spirit、伤害、金钱、游戏速度与时间。
 
 
 <p align="center">
@@ -30,24 +30,24 @@ Trainer for **Crimson Desert** — **+12** features: health, stamina, spirit, da
 
 ---
 
-## Download
+## 下载
 
-> Direct ZIP download from the release:
+> 发行版 ZIP 直链：
 
-**→ [Download Crimson.Desert.Trainer.Le.zip](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip)**
+**→ [下载 Crimson.Desert.Trainer.Le.zip](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip)**
 
 Release: **→ [v1.0.0](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/tag/v1.0.0)**
 
-Also on **VGtimes**:  
-**→ [VGtimes post — Crimson Desert trainer +12 (2026)](https://vgtimes.ru/games/crimson-desert/files/96369-crimson-desert-trejjner-12-2026.html)**
+也发布在 **VGtimes**：  
+**→ [VGtimes 帖子 — Crimson Desert trainer +12 (2026)](https://vgtimes.ru/games/crimson-desert/files/96369-crimson-desert-trejjner-12-2026.html)**
 
-After download: launch the game → launch the trainer → wait for `CrimsonDesert.exe` → enable features.
+下载后：启动游戏 → 启动训练器 → 等待 `CrimsonDesert.exe` → 开启功能。
 
 ---
 
-## Video — feature test
+## 视频 — 功能测试
 
-Full demo on YouTube:
+完整演示见 YouTube：
 
 **→ [https://youtu.be/xJbFhv9Fa-g](https://youtu.be/xJbFhv9Fa-g)**
 
@@ -59,7 +59,7 @@ Full demo on YouTube:
 
 ---
 
-## Screenshots
+## 截图
 
 <p align="center">
   <img src="screenshots/01-player.png" alt="Player" width="48%"/>
@@ -75,7 +75,7 @@ Full demo on YouTube:
 
 ---
 
-## Features (+12)
+## 功能 (+12)
 
 ### Player
 - Infinite Health (`Num 1`)
@@ -100,24 +100,24 @@ Full demo on YouTube:
 
 ---
 
-## How to use
+## 使用方法
 
-1. Download the ZIP via the green button
-2. Extract the archive
-3. Launch **Crimson Desert**
-4. Launch the trainer
-5. Wait for `CrimsonDesert.exe`
-6. Categories: Player / Combat / World / Items
-7. `Num` = toggle · `Ctrl+Shift+Home` = master off
+1. 通过绿色按钮下载 ZIP
+2. 解压
+3. 启动 **Crimson Desert**
+4. 启动训练器
+5. 等待 `CrimsonDesert.exe`
+6. 分类：Player / Combat / World / Items
+7. `Num` = 开关 · `Ctrl+Shift+Home` = 全部关闭
 
-| Key | Action |
+| 按键 | 作用 |
 |---------|----------|
-| `Num …` | Toggle |
+| `Num …` | 开关 |
 | `Ctrl + Shift + Home` | Master Off |
 
 ---
 
-## Links
+## 链接
 
 - **ZIP:** [Crimson.Desert.Trainer.Le.zip](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip)
 - **Release:** [v1.0.0](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/tag/v1.0.0)
@@ -128,34 +128,34 @@ Full demo on YouTube:
 
 ---
 
-## Supported version
+## 适用版本
 
 | | |
 |--|--|
-| Game | Crimson Desert |
-| Cheats | +12 |
-| Process | `CrimsonDesert.exe` |
-| OS | Windows 10 / 11 |
-| Version | v1.0.0 |
+| 游戏 | Crimson Desert |
+| 功能数 | +12 |
+| 进程 | `CrimsonDesert.exe` |
+| 系统 | Windows 10 / 11 |
+| 版本 | v1.0.0 |
 
 ---
 
-## FAQ
+## 常见问题
 
-**Where to download?**  
-Green button above or [direct ZIP](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip). Also [VGtimes](https://vgtimes.ru/games/crimson-desert/files/96369-crimson-desert-trejjner-12-2026.html).
+**哪里下载？**  
+绿色按钮或 [ZIP 直链](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip)。也可看 [VGtimes](https://vgtimes.ru/games/crimson-desert/files/96369-crimson-desert-trejjner-12-2026.html)。
 
-**Infinite HP / One Hit / money / speed?**  
-Yes — see features and the video.
+**有无限生命 / 秒杀 / 金钱 / 加速吗？**  
+有 — 见功能列表和视频。
 
-**How many cheats?**  
-**+12** across Player, Combat, World, Items.
+**多少项功能？**  
+**+12**（Player / Combat / World / Items）。
 
 ---
 
-## Disclaimer
+## 免责声明
 
-For single-player use only. Author and [TrainerHub MoggyDay](https://github.com/TrainerHubMoggyDay) are not responsible. Do not use online / multiplayer.
+仅供单机使用。作者与 [TrainerHub MoggyDay](https://github.com/TrainerHubMoggyDay) 不承担责任。请勿用于联机。
 
 ---
 
